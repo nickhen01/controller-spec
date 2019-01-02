@@ -1,8 +1,9 @@
 source 'https://rubygems.org'
 
-gem 'rails', '4.1.6'
+gem 'rails', '5.2'
 gem 'rspec-rails', '~> 3.1'
 gem 'sqlite3'
+gem 'rails-controller-testing'
 
 group :development do
   gem 'spring'
